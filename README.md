@@ -51,7 +51,7 @@ pip install -r requirements.txt]
 For Software:
 
 # Screenshots (Add at least 3)
-![<img width="1823" height="1053" alt="Screenshot 2025-08-09 062905" src="https://github.com/user-attachments/assets/c0961d63-f935-4aff-99f9-dd22e1d685a5" />](when we open our code phase)
+!<img width="1823" height="1053" alt="Screenshot 2025-08-09 062905" src="https://github.com/user-attachments/assets/c0961d63-f935-4aff-99f9-dd22e1d685a5"/>(when we open our code phase)
 
 
 ![<img width="1817" height="1050" alt="Screenshot 2025-08-09 062816" src="https://github.com/user-attachments/assets/5b0da62f-a8dd-472a-98cb-7ee703d6c7b6" />](gaming process phase)
