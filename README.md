@@ -33,7 +33,7 @@ For Software:
 For Software:
 # Installation
 [# Installation
-```bash
+
 # Clone the repository
 git clone https://github.com/arsha-13/Typing-Ninja.git
 
