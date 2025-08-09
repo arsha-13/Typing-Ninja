@@ -28,53 +28,49 @@ For Software:
 - Languages used:Python
 - Libraries used: tkinter,random,time
 - Tools used: VS Code
-<img width="1823" height="1053" alt="Screenshot 2025-08-09 062905" src="https://github.com/user-attachments/assets/c0961d63-f935-4aff-99f9-dd22e1d685a5" />
-<img width="1817" height="1050" alt="Screenshot 2025-08-09 062816" src="https://github.com/user-attachments/assets/5b0da62f-a8dd-472a-98cb-7ee703d6c7b6" />
-<img width="1817" height="1052" alt="Screenshot 2025-08-09 062734" src="https://github.com/user-attachments/assets/270cecf6-6ccd-4a08-90cc-70917be5fa97" />
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+[# Installation
+```bash
+# Clone the repository
+git clone https://github.com/arsha-13/Typing-Ninja.git
+
+# Navigate to project folder
+cd Typing-Ninja
+
+# Install required packages
+pip install -r requirements.txt]
 
 # Run
-[commands]
+[python Typing_Ninja.py
+]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![<img width="1823" height="1053" alt="Screenshot 2025-08-09 062905" src="https://github.com/user-attachments/assets/c0961d63-f935-4aff-99f9-dd22e1d685a5" />](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![<img width="1823" height="1053" alt="Screenshot 2025-08-09 062905" src="https://github.com/user-attachments/assets/c0961d63-f935-4aff-99f9-dd22e1d685a5" />](when we open our code phase)
 
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+![<img width="1817" height="1050" alt="Screenshot 2025-08-09 062816" src="https://github.com/user-attachments/assets/5b0da62f-a8dd-472a-98cb-7ee703d6c7b6" />](gaming process phase)
 
-![Build](Add photos of build process here)
-*Explain the build steps*
 
-![Final](Add photo of final product here)
-*Explain the final build*
+![<img width="1817" height="1052" alt="Screenshot 2025-08-09 062734" src="https://github.com/user-attachments/assets/270cecf6-6ccd-4a08-90cc-70917be5fa97" />](the picture of game ending)
+
+
+
 
 ### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+[https://drive.google.com/file/d/1DAYvLA7vRA1AszcIqZIoGW2ExtoKSeds/view?usp=sharing]
+the video shows the whole process of this game
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
+- [Arsha]: [developed the code]
+- [kripa]: [extra features idea]
 - [Name 3]: [Specific contributions]
 
 ---
